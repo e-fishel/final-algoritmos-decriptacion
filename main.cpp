@@ -15,7 +15,7 @@ string decode_function (string str) {
 int main () {
     string str = "qvi$oot";
     cout << "El string codificado es  : " << str << '\n';
-    string decoded = decode_function(str); // todo: change to function output
+    string decoded = decode_function(str);
     cout << "El string decodificado es: " << decoded << '\n';
     return 0;
 }
