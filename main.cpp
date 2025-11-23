@@ -14,5 +14,8 @@ string quadratic_mod_5 (string str) {
 
 int main () {
     string str = "qvi$oot";
+    string decoded = ""; // todo: change to function output
+    cout << "El string codificado es  : " << str << '\n';
+    cout << "El string decodificado es: " << decoded << '\n';
     return 0;
 }
