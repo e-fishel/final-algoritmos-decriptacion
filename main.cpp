@@ -6,5 +6,6 @@ using ii = pair <ll, ll>;
 using vii = vector <ii>;
 
 int main () {
+    string str = "qvi$oot";
     return 0;
 }
